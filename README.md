@@ -46,5 +46,5 @@ arkade install ingress-nginx --namespace default
 arkade install cert-manager
 ```
 
-Parts of theses instructions were taken from the following blog post by Nima Mahmoudi.
+Parts of theses instructions were taken from the following blog post by Nima Mahmoudi.<br>
 https://itnext.io/the-ultimate-guide-to-building-your-personal-k3s-cluster-bf2643f31dd3
