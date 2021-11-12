@@ -2,7 +2,9 @@
 
 This script prepares host Raspberry Pis for K3s Installation.
 
+```
 OS: Ubuntu 20.04.3 LTS
+```
 
 The script does the following:
 - Assigns the hostname according to the hosts.yaml file.
